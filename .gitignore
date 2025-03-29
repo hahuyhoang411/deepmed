@@ -1,3 +1,14 @@
 # Virtual environments
 deepresearch/
 .env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+
+# LangGraph API
+.langgraph_api/
