@@ -205,7 +205,7 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
                 plan_output = gr.Textbox(label="", lines=10)
                 
                 with gr.Row():
-                    approve_btn = gr.Button("✅ Approve Plan", variant="success")
+                    approve_btn = gr.Button("✅ Approve Plan", variant="primary")
                     revise_btn = gr.Button("🔄 Request Revisions", variant="secondary")
                 
                 # Add a loading indicator for when the plan is being revised
