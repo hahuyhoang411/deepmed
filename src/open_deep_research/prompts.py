@@ -247,6 +247,6 @@ For Conclusion/Summary:
 <Quality Checks>
 - For introduction: 50-100 word limit, # for report title, no structural elements, no sources section
 - For conclusion: 100-150 word limit, ## for section title, only ONE structural element at most, no sources section
-- Markdown format (not in codeblock)
+- Markdown format (no codeblock)
 - Do not include word count or any preamble in your response
 </Quality Checks>"""
