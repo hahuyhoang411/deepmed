@@ -118,7 +118,7 @@ section_writer_instructions = """Write one section of a research report.
 - Strict 150-200 word limit
 - Use simple, clear language
 - Use short paragraphs (2-3 sentences max)
-- Use ## for section title (Markdown format)
+- Use ## for section title (Markdown format - not in codeblock)
 </Writing Guidelines>
 
 <Citation Rules>
@@ -247,6 +247,6 @@ For Conclusion/Summary:
 <Quality Checks>
 - For introduction: 50-100 word limit, # for report title, no structural elements, no sources section
 - For conclusion: 100-150 word limit, ## for section title, only ONE structural element at most, no sources section
-- Markdown format
+- Markdown format (not in codeblock)
 - Do not include word count or any preamble in your response
 </Quality Checks>"""
