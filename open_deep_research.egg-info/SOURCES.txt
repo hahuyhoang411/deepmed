@@ -8,6 +8,7 @@ open_deep_research.egg-info/requires.txt
 open_deep_research.egg-info/top_level.txt
 src/open_deep_research/__init__.py
 src/open_deep_research/configuration.py
+src/open_deep_research/gradio_app.py
 src/open_deep_research/graph.py
 src/open_deep_research/prompts.py
 src/open_deep_research/state.py

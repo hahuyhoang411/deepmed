@@ -126,8 +126,8 @@ section_writer_instructions = """Write one section of a research report.
 - End with ### Sources that lists each source with corresponding numbers
 - IMPORTANT: Number sources sequentially without gaps (1,2,3,4...) in the final list regardless of which sources you choose
 - Example format:
-  [1] Source Title: URL
-  [2] Source Title: URL
+  [1] Source Title: URL\n\n
+  [2] Source Title: URL\n\n
 </Citation Rules>
 
 <Final Check>
